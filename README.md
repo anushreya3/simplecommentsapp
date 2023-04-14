@@ -32,8 +32,8 @@ The challenge was to build a React comments app that allows users to create, rea
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/anushreya3/simplecommentsapp)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution of comments app](https://github.com/anushreya3/simplecommentsapp)
+- Live Site URL: [Vercel deployment link](https://simplecommentsapp.vercel.app/)
 
 ## My process
 
